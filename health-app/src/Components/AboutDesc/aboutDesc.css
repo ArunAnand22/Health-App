@@ -1,0 +1,19 @@
+.about-desc{
+    width: 100%;
+    height: min-content;
+    background-color: teal;
+    color: white;
+}
+.about-desc > h1{
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 15px;
+}
+.about-section{
+    display: flex;
+    justify-content: center;
+}
+.abt-container{
+    width: 70%;
+    padding-bottom: 20px;
+}

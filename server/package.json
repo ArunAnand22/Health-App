@@ -1,0 +1,20 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "health app using mongodb node js express js and react js as front end",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "js",
+    "node",
+    "js",
+    "express",
+    "js",
+    "mongodb"
+  ],
+  "author": "Arun Anand",
+  "license": "ISC"
+}
