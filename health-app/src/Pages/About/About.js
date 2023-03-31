@@ -11,7 +11,7 @@ function About() {
   return (
     <div className='about'>
         <Aboutnav/>
-        <Banner/>
+        <Banner type="about"/>
         <AboutService/>
         <NewsLetter/>
         <Aboutdesc/>

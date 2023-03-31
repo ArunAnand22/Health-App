@@ -1,0 +1,95 @@
+{
+    "basic-streches":[
+        {
+            "id":1,
+            "name":"Hip flexors",
+            "time":"5 minute",
+            "image":"https://www.gymbuddynow.com/wp-content/uploads/2017/12/2.gif",
+            "steps":[
+                {"step-1":"Stand straight with your face facing straight"},
+                {"step-2":"Bend your knees at an angile of 30deg"},
+                {"step-3":"Place one of your foot backward as shown in the figure"},
+                {"step-4":"Raise your hand above your head"},
+                {"step-5":"Lean backwards as you sit down on your knees"}
+            ]
+        },
+        {
+            "id":2,
+            "name":"Inner thigh stretch",
+            "time":"7 minute",
+            "image":"https://www.gymbuddynow.com/wp-content/uploads/2017/12/8.gif",
+            "steps":[
+                {"step-1":"Sit on the ground with your legs extended"},
+                {"step-2":"Make an angle above 90deg with your legs spread"},
+                {"step-3":"Sit straight and lean forward with your hands extended"},
+                {"step-4":"Go back to the initial position"},
+                {"step-5":"Repeat the steps slowly"}
+            ]
+        },
+        {
+            "id":3,
+            "name":"Bicep stretch",
+            "time":"8 minute",
+            "image":"https://www.gymbuddynow.com/wp-content/uploads/2017/12/5.gif",
+            "steps":[
+                {"step-1":"Stand straight on your feet"},
+                {"step-2":"Bring both your hands backwards"},
+                {"step-3":"Hold hands behind your back and extend to your shoulder level"},
+                {"step-4":"Bring back to the initial position"},
+                {"step-5":"Repeat the steps slowly relaxing shoulder joints"}
+            ]
+        },
+        {
+            "id":4,
+            "name":"Hamstring stretch",
+            "time":"6 minute",
+            "image":"https://www.gymbuddynow.com/wp-content/uploads/2017/12/9.gif",
+            "steps":[
+                {"step-1":"Lay on the ground facing the roof"},
+                {"step-2":"Relax and raise your leg upwards without bending your knees"},
+                {"step-3":"Grand your thighs and hold back"},
+                {"step-4":"You can feel a strech on your hamstrings"},
+                {"step-5":"Bring back to the initial position"}
+            ]
+        },
+        {
+            "id":5,
+            "name":"Upper-back stretch",
+            "time":"4 minute",
+            "image":"https://www.gymbuddynow.com/wp-content/uploads/2017/12/4.gif",
+            "steps":[
+                {"step-1":"Stand on the ground on your knees"},
+                {"step-2":"Straighten your back on relaxed position"},
+                {"step-3":"Breathe out and extend your back upwards"},
+                {"step-4":"Breathe in and bring your back on opposite direction"},
+                {"step-5":"Control your breathing along with the back muscles"}
+            ]
+        },
+        {
+            "id":6,
+            "name":"abs stretch",
+            "time":"5 minute",
+            "image":"https://www.gymbuddynow.com/wp-content/uploads/2017/12/1.gif",
+            "steps":[
+                {"step-1":"Lay on your stomach"},
+                {"step-2":"Face downwards onto the ground"},
+                {"step-3":"Push up your chest with your arms,face looking up"},
+                {"step-4":"Curve your back and your butt remaining steady"},
+                {"step-5":"Lie down on initial position facing ground"}
+            ]
+        },
+        {
+            "id":7,
+            "image":"https://www.gymbuddynow.com/wp-content/uploads/2017/12/6.gif",
+            "name":"Tricep",
+            "time":"4 minute",
+            "steps":[
+                {"step-1":"Stand straight on your feet"},
+                {"step-2":"Bring your hands above your head"},
+                {"step-3":"Bend your elbow and push back using your other arm"},
+                {"step-4":"You will feel a stretch on your tricep"},
+                {"step-5":"Repeat on the other side also"}
+            ]
+        }
+    ]
+}
