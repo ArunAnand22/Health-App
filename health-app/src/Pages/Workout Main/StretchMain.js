@@ -4,10 +4,11 @@ import { Link } from 'react-router-dom';
 import ArrowCircleRightIcon from '@mui/icons-material/ArrowCircleRight';
 
 function StretchMain() {
+
+    
   return (
     <div className='stretch-container'>
         <div className='stretch-wrapper'>
-            <h1 className='wrapper-heading'>Activities</h1>
             <div className='card-section'>
 
             <div className='card'>
@@ -26,7 +27,7 @@ function StretchMain() {
                 <div className='card-left'>
                     <h2>7 minute workout</h2>
                     <p>Endurance</p>
-                    <Link className='btn' to=''>
+                    <Link className='btn' to='/workout-main'>
                     <ArrowCircleRightIcon/>
                     </Link>
                 </div>

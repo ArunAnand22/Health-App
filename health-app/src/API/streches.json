@@ -6,90 +6,167 @@
             "time":"5 minute",
             "image":"https://www.gymbuddynow.com/wp-content/uploads/2017/12/2.gif",
             "steps":[
-                {"step-1":"Stand straight with your face facing straight"},
-                {"step-2":"Bend your knees at an angile of 30deg"},
-                {"step-3":"Place one of your foot backward as shown in the figure"},
-                {"step-4":"Raise your hand above your head"},
-                {"step-5":"Lean backwards as you sit down on your knees"}
+                {"step":"Stand straight with your face facing straight"},
+                {"step":"Bend your knees at an angile of 30deg"},
+                {"step":"Place one of your foot backward as shown in the figure"},
+                {"step":"Raise your hand above your head"},
+                {"step":"Lean backwards as you sit down on your knees"}
             ]
         },
         {
             "id":2,
+            "workoutId":"1",
             "name":"Inner thigh stretch",
             "time":"7 minute",
             "image":"https://www.gymbuddynow.com/wp-content/uploads/2017/12/8.gif",
             "steps":[
-                {"step-1":"Sit on the ground with your legs extended"},
-                {"step-2":"Make an angle above 90deg with your legs spread"},
-                {"step-3":"Sit straight and lean forward with your hands extended"},
-                {"step-4":"Go back to the initial position"},
-                {"step-5":"Repeat the steps slowly"}
+                {"step":"Sit on the ground with your legs extended"},
+                {"step":"Make an angle above 90deg with your legs spread"},
+                {"step":"Sit straight and lean forward with your hands extended"},
+                {"step":"Go back to the initial position"},
+                {"step":"Repeat the steps slowly"}
             ]
         },
         {
             "id":3,
+            "workoutId":"1",
             "name":"Bicep stretch",
             "time":"8 minute",
             "image":"https://www.gymbuddynow.com/wp-content/uploads/2017/12/5.gif",
             "steps":[
-                {"step-1":"Stand straight on your feet"},
-                {"step-2":"Bring both your hands backwards"},
-                {"step-3":"Hold hands behind your back and extend to your shoulder level"},
-                {"step-4":"Bring back to the initial position"},
-                {"step-5":"Repeat the steps slowly relaxing shoulder joints"}
+                {"step":"Stand straight on your feet"},
+                {"step":"Bring both your hands backwards"},
+                {"step":"Hold hands behind your back and extend to your shoulder level"},
+                {"step":"Bring back to the initial position"},
+                {"step":"Repeat the steps slowly relaxing shoulder joints"}
             ]
         },
         {
             "id":4,
+            "workoutId":"1",
             "name":"Hamstring stretch",
             "time":"6 minute",
             "image":"https://www.gymbuddynow.com/wp-content/uploads/2017/12/9.gif",
             "steps":[
-                {"step-1":"Lay on the ground facing the roof"},
-                {"step-2":"Relax and raise your leg upwards without bending your knees"},
-                {"step-3":"Grand your thighs and hold back"},
-                {"step-4":"You can feel a strech on your hamstrings"},
-                {"step-5":"Bring back to the initial position"}
+                {"step":"Lay on the ground facing the roof"},
+                {"step":"Relax and raise your leg upwards without bending your knees"},
+                {"step":"Grand your thighs and hold back"},
+                {"step":"You can feel a strech on your hamstrings"},
+                {"step":"Bring back to the initial position"}
             ]
         },
         {
             "id":5,
+            "workoutId":"1",
             "name":"Upper-back stretch",
             "time":"4 minute",
             "image":"https://www.gymbuddynow.com/wp-content/uploads/2017/12/4.gif",
             "steps":[
-                {"step-1":"Stand on the ground on your knees"},
-                {"step-2":"Straighten your back on relaxed position"},
-                {"step-3":"Breathe out and extend your back upwards"},
-                {"step-4":"Breathe in and bring your back on opposite direction"},
-                {"step-5":"Control your breathing along with the back muscles"}
+                {"step":"Stand on the ground on your knees"},
+                {"step":"Straighten your back on relaxed position"},
+                {"step":"Breathe out and extend your back upwards"},
+                {"step":"Breathe in and bring your back on opposite direction"},
+                {"step":"Control your breathing along with the back muscles"}
             ]
         },
         {
             "id":6,
+            "workoutId":"1",
             "name":"abs stretch",
             "time":"5 minute",
             "image":"https://www.gymbuddynow.com/wp-content/uploads/2017/12/1.gif",
             "steps":[
-                {"step-1":"Lay on your stomach"},
-                {"step-2":"Face downwards onto the ground"},
-                {"step-3":"Push up your chest with your arms,face looking up"},
-                {"step-4":"Curve your back and your butt remaining steady"},
-                {"step-5":"Lie down on initial position facing ground"}
+                {"step":"Lay on your stomach"},
+                {"step":"Face downwards onto the ground"},
+                {"step":"Push up your chest with your arms,face looking up"},
+                {"step":"Curve your back and your butt remaining steady"},
+                {"step":"Lie down on initial position facing ground"}
             ]
         },
         {
             "id":7,
+            "workoutId":"1",
             "image":"https://www.gymbuddynow.com/wp-content/uploads/2017/12/6.gif",
             "name":"Tricep",
             "time":"4 minute",
             "steps":[
-                {"step-1":"Stand straight on your feet"},
-                {"step-2":"Bring your hands above your head"},
-                {"step-3":"Bend your elbow and push back using your other arm"},
-                {"step-4":"You will feel a stretch on your tricep"},
-                {"step-5":"Repeat on the other side also"}
+                {"step":"Stand straight on your feet"},
+                {"step":"Bring your hands above your head"},
+                {"step":"Bend your elbow and push back using your other arm"},
+                {"step":"You will feel a stretch on your tricep"},
+                {"step":"Repeat on the other side also"}
             ]
         }
+    ],
+    "intense-workout":[
+        {
+            "id":8,
+            "workoutId":"2",
+            "name":"Wide-grip barbell partial deadlift",
+            "reps":"6",
+            "equipment":"Barbell",
+            "image":"https://media.gq.com/photos/5b6372f296a50116e4cc4969/master/w_1600,c_limit/Dana-scruggs-fitness-GQ3130-W-GIF5.gif",
+            "steps":[
+                {"step":" Stand with your feet slightly wider than shoulder-width distance."},
+                {"step":"Grab onto a barbell using an overhand grip, keeping your arms at a 45-degree angle from the side of your body, with no bend in the elbows"},
+                {"step":"Stand tall, squeezing the bar into your thighs and pulling your shoulder blades together—you should feel tension throughout the entire back side of your upper body"},
+                {"step":"This is your starting position"},
+                {"step":" Hinge at the hips, without letting the bar move away from your body, and lower the bar to just above the knee, counting to five each time"},
+                {"step":" Slowly return to the starting position."}
+            ]
+        },
+        {
+            "id":9,
+            "workoutId":"2",
+            "name":"Scap push-up",
+            "reps":"6",
+            "equipment":"No equipment",
+            "image":"https://media.gq.com/photos/5b6372f296a50116e4cc496b/master/w_1600,c_limit/Dana-scruggs-fitness-GQ3182-W-GIF2.gif",
+            "steps":[
+                {"step":"Start in a high plank position"},
+                {"step":"Without bending your elbows, slowly push your shoulder blades together, which will lower your body a few inches."},
+                {"step":"Return to start position for one rep"}
+            ]
+        }, 
+        {
+            "id":10,
+            "workoutId":"2",
+            "name":"Pull-Up",
+            "reps":"6",
+            "equipment":"A bar",
+            "image":"https://media.gq.com/photos/5b637298649a373331a32228/master/w_1600,c_limit/Dana-scruggs-fitness-GQ3227-W-GIF4.gif",
+            "steps":[
+                {"step":" Hang using an overhand grip, and then pull your shoulder blades down towards the floor—imagine moving your shoulders down and away from your ears."},
+                {"step":"Continue until the bar is just below your chin, and hold that position for three seconds."},
+                {"step":"Take a full five seconds to return to the hanging position."}
+            ]
+        },
+        {
+            "id":11,
+            "workoutId":"2",
+            "name":"Wall-walk",
+            "reps":"8",
+            "equipment":"No equipment",
+            "image":"https://media.gq.com/photos/5b6372f1649a373331a3222c/master/w_1600,c_limit/Dana-scruggs-fitness-GQ3337-GIF6.gif",
+            "steps":[
+                {"step":"Start in a high plank position with your feet touching a wall."},
+                {"step":" Engaging your core, simultaneously walk your feet up the wall while moving your hands closer to the wall."},
+                {"step":"Pause when your body is vertical at the top of your handstand."},
+                {"step":"Then, move your hands forward and walk down the wall until you reach the bottom again."}
+            ]
+        },
+        {
+            "id":12,
+            "workoutId":"2",
+            "name":"Dumbbell bent-over row",
+            "reps":"12",
+            "equipment":"Pair of Dumbells",
+            "image":"https://media.gq.com/photos/5b6372f2649a373331a3222e/master/w_1600,c_limit/Dana-scruggs-fitness-GQ3150-W-GIF1.gif",
+            "steps":[
+                {"step":"Stand with your feet shoulder-width apart, holding a dumbbell in each hand with a neutral grip"},
+                {"step":" Bend slightly at your knees, hinge your hips, and lower your chest so that it is almost parallel to the floor."},
+                {"step":"Keeping your core tight and your arms close to the body, row both weights up towards your chest, bending at the elbow. "}
+            ]
+        }                           
     ]
 }

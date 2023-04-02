@@ -1,21 +1,23 @@
-import React, { useState,useEffect } from 'react'
-import stretches from '../../../../API/streches.json'
-import './stretch.css'
-import HomeNav from '../../../../Components/HomeNav/HomeNav'
+import React,{useState,useEffect} from 'react'
+import './workoutMain.css'
 import { Link } from 'react-router-dom'
+import HomeNav from '../../../../Components/HomeNav/HomeNav'
+import Footer from '../../../../Components/Footer/Footer'
+import workouts from '../../../../API/streches.json'
 
-function Stretch() {
-    const [stretch,setStretch] = useState([])
+function WorkoutMain() {
+    const [workout,setWorkout] = useState([])
 
     useEffect(()=>{
-        setStretch(stretches['basic-streches'])
+        setWorkout(workouts["intense-workout"])
     },[])
     
     const handleitem=(data)=>{
         localStorage.setItem('id',data.id)
         localStorage.setItem('name',data.name)
-        localStorage.setItem('time',data.time)
+        localStorage.setItem('reps',data.reps)
         localStorage.setItem('image',data.image)
+        localStorage.setItem('equipment',data.equipment)
         localStorage.setItem('steps',JSON.stringify(data.steps))
     }
   return (
@@ -23,11 +25,11 @@ function Stretch() {
     <HomeNav/>
     <div className='stretch-container'>
         <div className='stretch-wrapper'>
-            <h1>Basic Stretches</h1>
-             
+            <h1>7-minute Workouts</h1>
+           
         {
-            stretch && stretch.map(data=>(
-                <Link onClick={()=>handleitem(data)} to={`/stretch/${data.id}`} className='stretch-card'>
+            workout && workout.map(data=>(
+                <Link onClick={()=>handleitem(data)} to={`/workout-desc/${data.id}`} className='stretch-card'>
                 <div className='card-left'>
                     <h1>{data.name}</h1>
                     </div>
@@ -37,8 +39,8 @@ function Stretch() {
             }
         </div>
     </div>
-</>
+    </>
   )
 }
 
-export default Stretch
+export default WorkoutMain

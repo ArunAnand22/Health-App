@@ -1,16 +1,14 @@
 .stretch-container{
     width: 100%;
+}
+.stretch-wrapper{
+    margin-left: auto;
+    margin-right: auto;
     display: flex;
-    flex-direction: row;
     justify-content: center;
 }
-.wrapper-heading{
-    margin-top: 30px;
-    font-weight: 400;
-    margin-bottom: 20px;
-}
 .card-section{
-    
+    margin-top: 10px;
 }
 .card-section > .card{
     border: 2px solid teal;

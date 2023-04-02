@@ -8,6 +8,8 @@ import MainHome from './Pages/Home/MainHome';
 import MainWorkout from './Pages/MainWorkout/MainWorkout';
 import Stretch from './Pages/Workout Section/Stretches/Main/Stretch';
 import StretchDetail from './Pages/Workout Section/Stretches/Sub/StretchDetail';
+import WorkoutMain from './Pages/Workout Section/Workout/Main/WorkoutMain';
+import WorkoutDesc from './Pages/Workout Section/Workout/Desc/WorkoutDesc';
 function App() {
   return (
     <div className="App">
@@ -21,6 +23,8 @@ function App() {
           <Route path='/home-workout' element={<MainWorkout/>}/>
           <Route path='/stretch-workout' element={<Stretch/>}/>
           <Route path='/stretch/:id' element={<StretchDetail/>}/>
+          <Route path='/workout-main' element={<WorkoutMain/>}/>
+          <Route path='/workout-desc/:id' element={<WorkoutDesc/>}/>
         </Routes>
       </Router>
     </div>

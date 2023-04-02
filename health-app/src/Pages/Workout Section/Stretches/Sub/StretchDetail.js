@@ -23,9 +23,24 @@ function StretchDetail() {
   return (
     <>
     <HomeNav/>
-    {
-        
-    }
+    
+        <div className='detail-container'>
+          <div className='detail-img'>
+            <img src={image}/>
+          </div>
+          <div className='detail-desc'>
+            <h1>{name}</h1>
+            <h4>Time: {time}</h4>
+
+            <div className='step_list'>
+            {steps && steps.map(item=>(
+              <p>{item.step}</p>
+              ))}
+            </div>
+            
+          </div>
+        </div>
+    
     <Footer/>
     </>
   )
