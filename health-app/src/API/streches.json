@@ -168,5 +168,279 @@
                 {"step":"Keeping your core tight and your arms close to the body, row both weights up towards your chest, bending at the elbow. "}
             ]
         }                           
-    ]
+    ],
+    "yoga-section":[
+        {
+        "id":13,
+        "workoutId":3,
+        "name":"Downward Facing Dog (Adho Mukha Svanasana)",
+        "image":"https://www.docteur-fitness.com/wp-content/uploads/2022/08/adho-mukha-svanasana-posture-du-chien-tete-en-bas.gif",
+        "category":"Intermediate",
+        "steps":[
+            {"step":"Come to your hands and knees with your wrists underneath the shoulders and your knees underneath the hips"},
+            {"step":"Curl your toes under and push back through your hands to lift your hips and straighten your legs"},
+            {"step":"Spread your fingers and ground down from the forearms into the fingertips"},
+            {"step":"Outwardly rotate your upper arms to broaden the collarbones"},
+            {"step":"Let your head hang and move your shoulder blades away from your ears towards your hips"},
+            {"step":"Engage your quadriceps strongly to take the burden of your body's weight off your arms. This action goes a long way toward making this a resting pose"},
+            {"step":"Rotate your thighs inward, keep your tail high, and sink your heels towards the floor"},
+            {"step":"Check that the distance between your hands and feet is correct by coming forward to a plank position. The distance between the hands and feet should be the same in these two poses. Do not step the feet toward the hands in Down Dog in order the get the heels to the floor"},
+            {"step":"Exhale and bend your knees to release and come back to your hands and knees"}
+        ],
+        "safety":[
+            {"step":"This pose isn't recommended if you have a wrist injury or carpal tunnel syndrome, or if you are in the last trimester of pregnancy"},
+            {"step":"It should also be avoided if you have high blood pressure, heart disease, vertigo, or a slipped disc in your spine"}
+        ],
+        "benefits":[
+            {"step":"Downward Facing Dog stretches the hamstrings and calves, and it strengthens the arms and legs"},
+            {"step":"The pose also helps increase the strength of the external oblique abdominal muscles"},
+            {"step":"As a mild inversion, Downward Dog acts in reverse of the usual forces on your spine and brings more blood flow to your brain"},
+            {"step":"When incorporated into a weekly yoga practice, it may even help relieve chronic back pain"}
+        ]
+    },
+    {
+        "id":14,
+        "workoutId":3,
+        "name":"Mountain Pose (Tadasana)",
+        "image":"http://www.thebrunettediaries.com/sites/default/files/uploads/2016/03/Palm-Tree-Pose-Tadasana2.jpg",
+        "category":"Beginner",
+        "steps":[
+            {"step":"Lift up all of your toes and fan them out, then drop them back down to create a wide, solid base. You can separate your heels slightly if your ankles are knocking together uncomfortably"},
+            {"step":"Let your feet and calves root down into the floor"},
+            {"step":"Engage your quadriceps (the muscles on the front of your thighs) and draw them upward, causing your kneecaps to rise"},
+            {"step":"Rotate both thighs inward, creating a widening of the sit bones"},
+            {"step":"Maintain the natural curves of your spine"},
+            {"step":"Tone your belly, drawing it in slightly"},
+            {"step":"Widen your collarbones and check that your shoulders are stacked over your pelvis"},
+            {"step":"Shrug your shoulders up to your ears and then roll them back to release your shoulder blades down your back"},
+            {"step":"Let your arms hang naturally with the elbows slightly bent and the palms facing forward"},
+            {"step":"Your neck is long, your chin is neither tucked down nor lifted up, and the crown of your head rises toward the ceiling"},
+            {"step":"Once you have checked all your alignment points, take 5 to 10 breaths while you hold yourself in this position"}
+            
+        ],
+        "safety":[
+            {"step":"Mountain is a generally safe pose unless you are feeling dizzy or lightheaded"},
+            {"step":"If you are pregnant, you may need a wider stance to feel stable"}
+        ],
+        "benefits":[
+            {"step":"Mountain Pose improves your posture and body awareness, strengthens your legs, and establishes good alignment"},
+            {"step":"Tadasana may not look like much, but keeping your body active and aligned is hard work"},
+            {"step":"You're not just standing in any old way"},
+            {"step":" You have to be aware of each part of your body and the role that it plays in stacking your bones and keeping your spine long"},
+            {"step":"You can even break a sweat if you engage your leg muscles as strongly as possible"},
+            {"step":"The basic alignment for Mountain Pose carries through to many of the other standing postures (Warrior I, or Virabhadrasana I, for example) and inverted poses (Handstand, or Adho Mukha Vrksasana) that you're going to do"},
+            {"step":"Some research shows that yoga poses like mountain pose can increase self-esteem and energy, especially those that are open and expansive rather than folded up"},
+            {"step":"This effect may be related to body alignment and how it affects the autonomous nervous system"},
+            {"step":" Researchers suggest using these poses as a way to boost confidence instead of traditional power poses"}
+            
+        ]
+    },
+    {
+        "id":15,
+        "workoutId":3,
+        "name":"Warrior I (Virabhadrasana I)",
+        "image":"https://alchetron.com/cdn/virabhadrasana-i-f5722a06-cae2-40bc-9f5d-06c78ce61cb-resize-750.jpeg",
+        "category":"Beginner",
+        "steps":[
+            {"step":"From Downward Facing Dog, step your right foot forward to the inside of your right hand"},
+            {"step":"Pivot on the ball of your left foot and drop your left heel to the floor with your toes turned out about 45 degrees from the heel"},
+            {"step":"Bend your right knee directly over your right ankle so that your right thigh is parallel to the floor"},
+            {"step":"Rise to standing, bringing your arms out to the side and up toward the ceiling. Your chest stays open as you come into a slight spinal extension (also known as a backbend)"},
+            {"step":"Your palms can touch overhead or stay shoulder's distance apart, whichever is more comfortable"},
+            {"step":"Lift your gaze up toward your thumbs and slide your shoulder blades down the back"},
+            {"step":"Check the alignment of your hips. Draw your right hip back and your left hip forward so that both hips are squared to the front of your mat"},
+            {"step":"Ground down through the outer edge of your left foot. Make sure your right thigh is still as parallel to the floor as possible"},
+            {"step":"Drop your hands to your mat and step your right leg back to Downward Dog. Take a few breaths or move through a vinyasa before doing the left side"}
+            
+        ],
+        "safety":[
+            {"step":"Avoid this pose if you have balance difficulties or an injury to the hips, knees, back, or shoulders"},
+            {"step":"If you have a neck problem, you should keep your neck in neutral position rather than tilting your head back"},
+            {"step":"If you have shoulder problems, you can raise your arms to parallel rather than bringing them together over your head or keep your hands on your knees or hips"}
+        ],
+        "benefits":[
+            {"step":"Warrior I strengthens the legs and upper arms, improves balance and core strength, stretches the muscles around the hips"},
+            {"step":" You get a good stretch of both the front and rear thigh (quadriceps and hamstrings), hips, and chest, as well as a back extension of the erector spinae muscle"},
+            {"step":"It is a hip opener, which is a good antidote for sitting all day"},
+            {"step":"This pose can be therapeutic if you have sciatica"},
+            {"step":" It is also an energizing pose, allowing better breathing and circulation"}
+            
+        ]
+    },
+    {
+        "id":16,
+        "workoutId":3,
+        "name":"Warrior II (Virabhadrasana II)",
+        "image":"https://therapeutesmagazine.com/wp-content/uploads/2016/09/Virabhadrasana-II-Warrior-II-Pose1-662x445.jpg",
+        "category":"Intermediate",
+        "steps":[
+            {"step":"From downward facing dog, step your right foot to the inside of your right hand"},
+            {"step":"Bend your right knee directly over your ankle so your thigh is parallel to the floor"},
+            {"step":"Pivot on the ball of your left foot to bring your left heel to your mat. Your left foot should be at a 90-degree angle with the sole firmly planted. Your front heel is roughly lined up with your back arch"},
+            {"step":"Keeping your foot placement as is, on an inhale, root down into your feet to lift the torso and arms up"},
+            {"step":"Extend your arms out like the letter T as you rotate your torso to the left, inviting the hips to become parallel to the left side of your mat"},
+            {"step":"With arms extended in opposite directions, let your palms face down. Keep both arms parallel to the floor. Release your shoulders away from your ears. Reach out through the fingertips of both hands"},
+            {"step":"Turn your head to face the front of your mat. Your gaze is forward over the right hand"},
+            {"step":"Both thighs are rotating outward"},
+            {"step":"Engage your triceps to support your arms, your quadriceps to support your legs, and your belly to support your torso"},
+            {"step":"After 5 to 10 breaths, windmill your hands down to either side of your right foot and step back to downward dog. Stay here for a few breaths or go through a vinyasa before repeating the pose with the left foot forward"}
+        ],
+        "safety":[
+            {"step":"Keep a close eye on your right knee. It tends to want to drift toward the center. Work on keeping your shin perpendicular to the floor with the knee tracking over the middle toe of the right foot"},
+            {"step":"Be sure you understand the difference in the alignment of your hips in warrior II versus warrior I. In warrior I, the hips point forward. In warrior II, the hips point to the side"},
+            {"step":"Put your hands on your hips and feel for the bony part of your pelvis that sticks out. Make sure the hips are level and facing the side of your mat"},
+            {"step":"Glance back at your rear arm to makes sure that it isn't sagging. Sometimes parts of the body we can't see have a life of their own. To make sure you support your arms, try this trick. Rotate your arms so that your palms are facing upward"},
+            {"step":"Engage your triceps, then maintain that engagement as you turn your palms back down. Make sure that you didn't tense up your shoulders during this process"}
+            
+        ],
+        "benefits":[
+            {"step":"Strengthen the legs and arms, opens the chest and shoulders, tones the abdomen"}
+            
+        ]
+    },
+    {
+        "id":17,
+        "workoutId":3,
+        "name":"Extended Side Angle (Utthita Parvakonasana)",
+        "image":"https://www.gaia.com/wp-content/uploads/ExtendedSideAngle_DaynaSeraye.jpg",
+        "category":"Beginner",
+        "steps":[
+            {"step":"Exhale and step your left foot behind towards the back of the mat with front foot staying at the top"},
+            {"step":"Lift and extend your arms out horizontally from your sides, with palms down"},
+            {"step":"Angle your right heel toward the center of your mat. Opinions vary on the ideal angle for the foot in relation to the ankle. Somewhere between 90 (which would be parallel to the back edge of your yoga mat) and 45 (toes pointing at the top left corner of your mat) degrees is acceptable"},
+            {"step":"Bend your right knee so that your calf and thigh form a right angle with your thigh parallel to the floor"},
+            {"step":"Rest your right forearm on the right thigh with the palm turned up towards the ceiling. If you'd like to deepen the stretch, bring your right hand inside or outside the right foot, depending on which is more comfortable.You can place the right fingertips on the floor for added length and to also avoid dumping the weight in the shoulder. A block underneath the hand is also welcomed. Remember to lift the weight out of the shoulder while engaging the core for support"},
+            {"step":"Lift your left arm up and extend it over the ear. Reach through finger tips while pressing firmly into the pinky toe side of the back foot"},
+            {"step":"Open your chest and make sure your left shoulder is aligned over your right shoulder"},
+            {"step":"Bring your gaze up toward your left hand"},
+            {"step":"Lift the torso up on an inhale extending arms wide. Pivot the feet and torso to face the top of the mat and step forward, returning to tadasana"},
+            {"step":"To keep the body in balance, repeat the pose with your left foot forward"}
+            
+        ],
+        "safety":[
+            {"step":"Avoid this pose if you have an injury to your hips, knees, neck, or shoulders"},
+            {"step":"It should not be done when you have a headache, high blood pressure, or low blood pressure"}
+            
+            
+        ],
+        "benefits":[
+            {"step":"Extended Side Angle strengthens and stretches the legs, hips, and hamstrings"},
+            {"step":"It also opens the chest and shoulders, which can be beneficial if you have any stiffness in your shoulders or back"},
+            {"step":"Extended Side Angle is also a great side body stretch"}
+            
+        ]
+    },
+    {
+        "id":18,
+        "workoutId":3,
+        "name":"Triangle Pose (Utthita Trikonasana)",
+        "image":"https://img.rasset.ie/000d1c05-1600.jpg",
+        "category":"Beginner",
+        "steps":[
+            {"step":"Engage your right thigh muscles and draw your right femur into its socket. Extend your right hand toward the front of the room, keeping your right hip tucked"},
+            {"step":"Lower your right hand down, onto your shin or ankle. If you are more open, bring your right hand to the floor on the inside or on the right foot. Do whichever one feels most comfortable"},
+            {"step":"The left shoulder stacks on top of the right one as you open your chest, reaching your left fingertips toward the ceiling while keeping your left shoulder rooted in its socket"},
+            {"step":"Turn your head to take your gaze up toward your left fingertips. If this is uncomfortable for your neck, it's also fine to keep the head in a more neutral position"},
+            {"step":"Continue to draw your right thigh muscles upward, deepening the crease in your right hip"},
+            {"step":"Soften your right knee slightly to prevent hyperextension. (This is called a microbend.)"},
+            {"step":"Stay for at least 5 breaths"},
+            {"step":"Repeat the pose with your left leg forward"}
+            
+        ],
+        "safety":[
+            {"step":"Avoid this pose if you have an injury to your back, neck, hips, or shoulders"},
+            {"step":"You may also wish to avoid it if you have a headache or migraine, diarrhea, are pregnant, or have low or high blood pressure.4 Talk to your doctor to learn if Triangle Pose is safe for you"}
+            
+            
+        ],
+        "benefits":[
+            {"step":"Triangle Pose strengthens the legs and stretches the groin, hamstrings, and hips, and opens the chest and shoulders"},
+            {"step":"It also challenges— and improves—balance and stability"}
+            
+        ]
+    },
+    {
+        "id":19,
+        "workoutId":3,
+        "name":"Standing Forward Bend (Uttanasana)",
+        "image":"https://alchetron.com/cdn/uttanasana-4dfd437a-ed83-4c74-8334-ef7072fa775-resize-750.jpeg",
+        "category":"Beginner",
+        "steps":[
+            {"step":"From Raised Hands Pose (Urdhva Hastasana) with the arms reaching overhead, sweep your arms down on either side of your body to come into a forward fold from your hips. This is often called a Swan Dive"},
+            {"step":"Bring your fingertips in line with the toes. Press your palms flat to the mat if you can. You can use blocks under your hands here if they don't reach the floor"},
+            {"step":"Microbend the knees so that they are not locked"},
+            {"step":"Engage your quadriceps muscles and draw them up. The more you use your quads, the more the hamstrings (the muscles on the back of the thighs) will open"},
+            {"step":"Bring your weight a little bit forward into the balls of your feet so that your hips stay over your ankles"},
+            {"step":"Let your head hang"},
+            {"step":"Let your head hangTo come up, inhale and place your hands onto your hips. Press your tailbone down and contract your abdominal muscles as you rise up slowly"}
+            
+        ],
+        "safety":[
+            {"step":"It's best to avoid this pose if you have an injury to your lower back"},
+            {"step":"You should not do it if you have any condition where you must avoid high pressure to your head, such as glaucoma or recent dental bone grafts"},
+            {"step":"If you feel any pain during the pose, stop and rise back slowly to vertical"}
+        ],
+        "benefits":[
+            {"step":"Standing Forward Bend stretches and lengthens the hamstrings and calves"},
+            {"step":" It is common to have tight hamstrings if you run or play a sport that involves lots of running"},
+            {"step":"It is regarded as a relaxing and stress-relieving pose. Traditionally, it is said to help relieve insomnia"}
+        ]
+    },
+    {
+        "id":20,
+        "workoutId":3,
+        "name":"Reverse Warrior (Viparita Virabhadrasana)",
+        "image":"https://s3.eu-north-1.amazonaws.com/productionyogobestaticassets20200305182457522400000001/landing_pages/title_images/2fb/cdd/a1-/original/DSC_2038.jpg?1586967772",
+        "category":"Beginner",
+        "steps":[
+            {"step":"Lean your torso toward the front of your mat and then circle your right hand up toward the ceiling for a big stretch along your right side. Keep your right arm plugged into the shoulder socket. Your left hand comes down to rest lightly on the back of your left thigh"},
+            {"step":"Bring your gaze up to the right fingertips"},
+            {"step":"Hold for five breaths and then switch sides"}
+            
+        ],
+        "safety":[
+            {"step":"Avoid this pose if you have balance difficulties or an injury to the hips, knees, back, or shoulders"},
+            {"step":" If you have a neck problem, you should keep your neck in neutral position with gaze forward rather than tilting your head back"},
+            {"step":" You will feel a stretch in your thighs, groin, and sides, but you should not feel any pain"},
+            {"step":"Come out of the pose if you feel any sharp pain"}
+        ],
+        "benefits":[
+            {"step":"Reverse Warrior strengthens the legs, opens the side body, improves spinal mobility, and improves balance and core strength"},
+            {"step":"You get a good stretch of both the front and rear thigh (quadriceps and hamstrings), hips, groin muscles, and the intercostal muscles of the ribs"},
+            {"step":" It is a hip opener, which is a good antidote for sitting all day. It is also an energizing pose, allowing better breathing and circulation"},
+            {"step":"Although it's possible to do Reverse Warrior as a deep backbend, it's more beneficial to approach it primarily as a side bend"},
+            {"step":" Practically speaking, it means the idea is not to go for the full spinal extension of a deep backbend"},
+            {"step":"It really does not matter how far down your leg you can get your left hand"}
+        ]
+    },
+    {
+        "id":21,
+        "workoutId":3,
+        "name":"Garland Pose (Malasana)",
+        "image":"https://www.hithyoga.com/wp-content/uploads/2020/01/malasana.jpg",
+        "category":"Beginner",
+        "steps":[
+            {"step":"Come to stand with your feet about mat's width apart"},
+            {"step":"Bend the knees and lower your butt toward the floor to come into a squat"},
+            {"step":"It's natural for your toes to want to turn out and that's OK, but don't overdo it. Eventually, you're working toward keeping the feet closer to parallel"},
+            {"step":"Take your upper arms inside your knees and bend the elbows to bring the palms together into anjali mudra (prayer position)"},
+            {"step":"With hands to your heart center in anjali mudra, see if you can allow your thumbs to touch your sternum as if to help keep the chest lifted. Continue pressing upper arms into thighs and thighs into upper arm to stay engaged"},
+            {"step":"Keep your spine straight, your butt moving toward the floor, and your shoulders relaxed away from your ears"},
+            {"step":"Stay here for five breaths, then straighten the legs to come out. You can come directly into a Forward Fold if you like"},
+            {"step":"Try repeating the pose three times to take full advantage of getting warmed up. If you are practicing at home, it's fine to do some other poses in between your squats"}
+            
+        ],
+        "safety":[
+            {"step":"Avoid Garland Pose if you have a knee or low back injury. Be sure to avoid any jerky motion or coming down into your squat forcefully"},
+            {"step":"Don't push yourself into a deeper squat than your body is ready to achieve"},
+            {"step":"If you feel any pain, back out of the pose"}
+        ],
+        "benefits":[
+            {"step":"Garland Pose opens the hips and groins as it stretches and strengthens the feet and ankles"},
+            {"step":"While squatting comes naturally to children and is used as a resting position in many places on Earth, most adults in the First World have gotten out of the habit"},
+            {"step":"So far out of the habit, in fact, that they find squatting extremely uncomfortable for their hips and feet"},
+            {"step":" Garland pose is an effective way to counter the tightness you get from spending too much time sitting in chairs"}
+        ]
+    }
+]
 }

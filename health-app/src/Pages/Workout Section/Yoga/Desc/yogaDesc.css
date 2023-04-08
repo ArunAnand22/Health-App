@@ -1,0 +1,67 @@
+.yogaDesc{
+    width: 100%;
+}
+.yogaDescWrapper{
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.descTitle{
+    font-size: 28px;
+    margin-top: 20px;
+    margin-bottom: 18px;
+}
+.yogaDescWrapper > img{
+    width: 60vw;
+}
+.descLvl{
+    margin-top: 18px;
+    margin-bottom: 18px;
+    color: teal;
+    font-weight: 400;
+}
+.yogaDesSteps > p{
+    background-color: teal;
+    padding: 10px 20px;
+    margin-bottom: 5px;
+    border-radius: 8px;
+    color: white;
+}
+.yogaBenefitSteps{
+    width: 100%;
+    margin-top: 30px;
+}
+.yogaBenefitSteps > h1{
+    color: teal;
+    margin-bottom: 12px;
+    font-size: 24px;
+    font-weight: 400;
+}
+.yogaBenefitSteps > p{
+    background-color: whitesmoke;
+    border-radius: 12px;
+    padding: 10px 20px;
+    margin-bottom: 8px;
+}
+.yogaSafetySteps{
+    width: 100%;
+    margin-top: 20px;
+}
+.yogaSafetySteps > h1{
+    color: tomato;
+    margin-bottom: 18px;
+    font-weight: 400;
+    font-size: 24px;
+}
+.yogaSafetySteps > p{
+    background-color: whitesmoke;
+    border-radius: 12px;
+    color: grey;
+    margin-bottom: 8px;
+}
+.yogaSafetySteps > p:last-child{
+    margin-bottom: 50px;
+}

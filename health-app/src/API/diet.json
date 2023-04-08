@@ -1,0 +1,202 @@
+{
+    "Fat-loss":[
+        {
+            "time":"Early Morning / Before Breakfast",
+            "ingredients":[
+                {"item":"1 glass of luke-warm water with lemon","calorie":"0"},
+                {"item":"1 cup of tea without sugar","calorie":"35"},
+                {"item":"2 pieces of Marie biscuits","calorie":"56"}
+            ]
+        },
+        {
+            "time":"Morning Meal/Breakfast",
+            "ingredients":[
+                {"item":"2 pieces of Appam","calorie":"100"},
+                {"item":"2 Nadan Mutta Roast","calorie":"150"}
+            ]
+        },
+        {
+            "time":"Mid Morning Or After Breakfast",
+            "ingredients":[
+                {"item":"1 cup of green tea without sugar","calorie":"40"},
+                {"item":"An apple or 1 small bowl of mixed fruit salad ","calorie":"0"}
+            ]
+        },
+        {
+            "time":"Lunch",
+            "ingredients":[
+                {"item":"1/3rd bowl of soup with Chuvanna Matta arichoru (red rice)","calorie":"120"},
+                {"item":"1 medium bowl of Sambar (less or no coconut in it at lunch)","calorie":"75"},
+                {"item":"1 small bowl of beetroot Pachadi","calorie":"75"},
+                {"item":"Cabbage Thoran (with no or less coconut in it)","calorie":"0"},
+                {"item":"","calorie":"0"}
+            ]
+        },
+        {
+            "time":"Evening Snack",
+            "ingredients":[
+                {"item":"1 cup of Green Coffee/tea (no sugar)","calorie":"35"},
+                {"item":"2 Wheat Rusk","calorie":"80"}
+            ]
+        },
+        {
+            "time":"Dinner",
+            "ingredients":[
+                {"item":"2 Pathiri with boiled veggies curry ","calorie":"150"},
+                {"item":"1 medium cup of Mulakitta mean curry","calorie":"150"},
+                {"item":"1 medium bowl of green cucumber Salad","calorie":"30"}
+            ]
+        },
+        {
+            "time":"After Dinner/ Bed Time Snack",
+            "ingredients":[
+                {"item":"1 small cup of Milk","calorie":"75"},
+                {"item":"4 Soaked almonds or a cup of almonds milk","calorie":"20"}
+            ]
+        }
+    ],
+    "weight-gain":[
+        {
+            "day":"1",
+            "calories":"1500",
+            "early-morning":"1 cup warm water with juice of half a lime and honey",
+            "breakfast":"3 millet idlis + 1 small bowl sambar or 2 egg whites + ½ a small bowl of peanut and coconut chutney + 1 cup green tea",
+            "Mid Morning":"1 medium apple or a small bowl of grapes",
+            "Lunch":"2 ragi balls + Vegetable curry + 1 cup rasam + 1 cup buttermilk",
+            "Post-Lunch":"1 cup green tea + 2 Marie biscuits",
+            "Dinner":"2 rotis + 1 medium bowl of vegetable curry + 1 cup spinach daal + 1 small bowl of curd",
+            "Bed Time":"1 cup warm milk with a pinch of turmeric"
+        },
+        {
+            "day":"2",
+            "calories":"1400",
+            "early-morning":"1 cup warm water with juice of half a lime and honey",
+            "breakfast":"2 medium rava dosas + tomato and onion chutney + 1 cup black coffee + 4 almonds",
+            "Mid Morning":"1 cup cut fruits",
+            "Lunch":"1 small bowl brown rice (or) 2 rotis + 1 cup bendekai gojju + 1 cup sambar + cucumber and carrot salad + 1 cup buttermilk",
+            "Post-Lunch":"1 cup black coffee + 1 boiled egg (or) boiled peanuts (20 g)",
+            "Dinner":"2 rotis + 1 cup mixed daal + 1 medium bowl vegetable kadalai curry or chicken curry + cucumber, onion, and tomato salad + 1 small cup low-fat curd",
+            "Bed Time":"1 cup warm milk with a pinch of turmeric"
+        },
+        {
+            "day":"3",
+            "calories":"1200",
+            "early-morning":"2 teaspoons fenugreek seeds soaked overnight in 1 cup water",
+            "breakfast":"2 pesarattus + ¼ cup allam pachadi + 4 almonds + 1 cup green tea",
+            "Mid Morning":"1 cup freshly pressed fruit juice",
+            "Lunch":"1 small bowl brown rice + 1 cup daal + 1 small bowl beetroot poriyal + 1 small cup of sprouts salad + 1 cup buttermilk",
+            "Post-Lunch":"1 cup green tea + 6 in-shell pistachios",
+            "Dinner":"2 small multigrain atta parotas with 1 cup vegetable kurma + 1 medium bowl mixed daal + 1 small bowl of curd",
+            "Bed Time":"1 cup warm milk with a pinch of turmeric"
+        },
+        {
+            "day":"4",
+            "calories":"1200",
+            "early-morning":"2 teaspoons fenugreek seeds soaked overnight in 1 cup water",
+            "breakfast":"Quinoa upma + 1 cup green tea",
+            "Mid Morning":"Cucumber slices + 4 almonds",
+            "Lunch":"1 small bowl white rice + 1 cup ridge gourd daal + ½ medium bowl of stir-fried carrots + tomato and beetroot salad + 1 cup buttermilk",
+            "Post-Lunch":"1 cup black coffee + 1 multigrain biscuit",
+            "Dinner":"2 rotis + 1 cup mixed veg curry + ½ cup whole masoor daal or 1 piece of grilled fish + carrot and cucumber salad + 1 small cup curd",
+            "Bed Time":"1 cup warm milk with a pinch of turmeric"
+        },
+        {
+            "day":"5",
+            "calories":"1200",
+            "early-morning":"2 teaspoons fenugreek seeds soaked overnight in 1 cup water",
+            "breakfast":"1 cup green tea + 2 puttus + 1 medium bowl cherupayar thoran",
+            "Mid Morning":"3 almonds + 1 cup watermelon juice",
+            "Lunch":"1 small bowl coconut rice (or) 2 rotis + 1 cup palak daal + 1 medium bowl cauliflower kootu + carrot, beetroot, and cucumber salad + 1 cup buttermilk",
+            "Post-Lunch":"1 cup black coffee + 1 cup unsalted popcorn",
+            "Dinner":"2 rotis + 1 medium bowl yellow daal or chicken curry + a small bowl bendakayi gojju + 1 cup curd",
+            "Bed Time":"1 cup warm milk with a pinch of turmeric"
+        },
+        {
+            "day":"6",
+            "calories":"1700",
+            "early-morning":"1 cup warm water with juice of half a lime and honey",
+            "breakfast":"1 cup filter coffee (use 1 teaspoon sugar) or 1 cup black coffee + 2-3 idiyappams with 1 medium bowl egg or vegetable stew",
+            "Mid Morning":"1 banana + 2 almonds",
+            "Lunch":"1 medium cup white rice + 1 small cup kothavarangai puli kootu + 1 cup sambar + 1 small cup sevai pudding (use jaggery and full-fat milk) + 1 cup curd",
+            "Post-Lunch":"1 cup coconut water or 1 cup black coffee + 1 multigrain biscuit",
+            "Dinner":"½ cup brown rice + 1 cup chicken curry or mushroom and peas curry +1 small cup beans and coconut curry + cucumber and carrot salad + 1 cup curd + a piece of dark chocolate",
+            "Bed Time":"1 cup warm milk with a pinch of turmeric"
+        },
+        {
+            "day":"7",
+            "calories":"1200",
+            "early-morning":"2 teaspoons fenugreek seeds soaked overnight in 1 cup water",
+            "breakfast":"1 medium bowl pongal (use slivered almonds instead of cashews) with coconut chutney + 1 cup green tea",
+            "Mid Morning":"1 cup coconut water",
+            "Lunch":"½ medium cup white rice + 1 medium bowl Kerala style fish curry or mamidikaya pappu + 2 rotis + 1 medium bowl avial + tomato and cucumber salad + 1 small bowl curd",
+            "Post-Lunch":"1 cup green tea + 1 cup of moong sprout salad",
+            "Dinner":"2 rotis(small) + 1 cup spinach daal + stir-fried beetroot + cucumber and tomato salad + 1 cup curd",
+            "Bed Time":"1 cup warm milk with a pinch of turmeric"
+        }
+    ],
+    "keto-diet":[
+        {
+            "day":"1",
+            "breakfast":"Bulletproof coffee",
+            "lunch":"Meal prep Chicken bacon ranch cheese wraps",
+            "dinner":"Crock-pot sausage and peppers with keto garlic cheese bread",
+            "fat":"87.9g",
+            "protein":"79.4g",
+            "carbs":"16.3g"
+        },
+        {
+            "day":"2",
+            "breakfast":"Bulletproof coffee / Keto veggie omlet",
+            "lunch":"Leftover Crock-Pot Sausage And Peppers with Keto Garlic Cheese Bread",
+            "dinner":" Chicken Cabbage Stir Fry",
+            "fat":"61.7g",
+            "protein":"67.4g",
+            "carbs":"24.3g"
+        },
+        {
+            "day":"3",
+            "breakfast":" Bulletproof Coffee",
+            "lunch":"Meal prep Chicken Bacon Ranch Cheese Wraps",
+            "dinner":" Beef Stew",
+            "fat":"72g",
+            "protein":"84g",
+            "carbs":"13g"
+        },
+        {
+            "day":"4",
+            "breakfast":"Bulletproof Coffee OR Chaffles with Keto Maple Syrup",
+            "lunch":" Leftover Beef Stew with macadamia nuts",
+            "dinner":" Juicy Burgers with Keto Hamburger Buns, Keto Ketchup, and bibb lettuce leaves",
+            "fat":"80.6g",
+            "protein":"67.3g",
+            "carbs":"17.3g"
+        },
+        {
+            "day":"5",
+            "breakfast":"Bulletproof Coffee",
+            "lunch":"Meal prep Chicken Bacon Ranch Wraps",
+            "dinner":"Keto Crustless Pizza",
+            "fat":"93.7g",
+            "protein":"81.8g",
+            "carbs":"13.9g"
+        },
+        {
+            "day":"6",
+            "breakfast":" Bulletproof Coffee OR Bacon, Cherry Tomatoes & Avocado",
+            "lunch":" Fathead Bagels with cream cheese and cucumber slices",
+            "dinner":"Ground Turkey Taco Stuffed Peppers",
+            "fat":"67.9g",
+            "protein":"56.5g",
+            "carbs":"19.6g"
+        },
+        {
+            "day":"7",
+            "breakfast":"Bulletproof Coffee",
+            "lunch":"Slow Cooker Crack Chicken with mini bell peppers and celery",
+            "dinner":"Roasted Chicken and Vegetables with Keto Chocolate Chip Cookies",
+            "fat":"76.7g",
+            "protein":"83.4g",
+            "carbs":"18.1g"
+        }
+    ]
+}

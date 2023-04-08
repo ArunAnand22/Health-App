@@ -3,7 +3,6 @@ import { useParams } from 'react-router'
 import './stretchDetail.css'
 import HomeNav from '../../../../Components/HomeNav/HomeNav'
 import Footer from '../../../../Components/Footer/Footer'
-import stretches from '../../../../API/streches.json'
 
 function StretchDetail() {
     const [name,setName] = useState('')

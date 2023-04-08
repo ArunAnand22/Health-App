@@ -39,7 +39,7 @@ function StretchMain() {
                 <div className='card-left'>
                     <h2>Mental Health</h2>
                     <p>Strength</p>
-                    <Link className='btn' to=''>
+                    <Link className='btn' to='/yoga-main'>
                     <ArrowCircleRightIcon/>
                     </Link>
                 </div>

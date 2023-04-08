@@ -33,7 +33,7 @@ function HomeNav() {
                     <span className='mobile-icon'><BookIcon/></span>
                 </li>
                 </Link>
-                <Link to='/home' className='nav_link'>
+                <Link to='/dietmain-section' className='nav_link'>
                 <li className='list_item'>
                     <span className='main-icon'>Diet</span>
                     <span className='mobile-icon'><LocalDiningIcon/></span>

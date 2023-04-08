@@ -10,6 +10,11 @@ import Stretch from './Pages/Workout Section/Stretches/Main/Stretch';
 import StretchDetail from './Pages/Workout Section/Stretches/Sub/StretchDetail';
 import WorkoutMain from './Pages/Workout Section/Workout/Main/WorkoutMain';
 import WorkoutDesc from './Pages/Workout Section/Workout/Desc/WorkoutDesc';
+import YogaMain from './Pages/Workout Section/Yoga/YogaMain';
+import YogaDesc from './Pages/Workout Section/Yoga/Desc/YogaDesc'
+import DietMain from './Pages/Diets/Main/DietMain';
+import FatLMain from './Pages/Diets/FatLoss/Main/FatLMain';
+
 function App() {
   return (
     <div className="App">
@@ -25,6 +30,10 @@ function App() {
           <Route path='/stretch/:id' element={<StretchDetail/>}/>
           <Route path='/workout-main' element={<WorkoutMain/>}/>
           <Route path='/workout-desc/:id' element={<WorkoutDesc/>}/>
+          <Route path='/yoga-main' element={<YogaMain/>}/>
+          <Route path='/yoga-desc/:id' element={<YogaDesc/>}/>
+          <Route path='/dietmain-section' element={<DietMain/>}/>
+          <Route path='/fatloss-section' element={<FatLMain/>}/>
         </Routes>
       </Router>
     </div>
