@@ -2,7 +2,6 @@ import React,{useState,useEffect} from 'react'
 import './workoutMain.css'
 import { Link } from 'react-router-dom'
 import HomeNav from '../../../../Components/HomeNav/HomeNav'
-import Footer from '../../../../Components/Footer/Footer'
 import workouts from '../../../../API/streches.json'
 
 function WorkoutMain() {

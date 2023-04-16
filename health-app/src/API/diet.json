@@ -59,82 +59,82 @@
         {
             "day":"1",
             "calories":"1500",
-            "early-morning":"1 cup warm water with juice of half a lime and honey",
+            "earlymorning":"1 cup warm water with juice of half a lime and honey",
             "breakfast":"3 millet idlis + 1 small bowl sambar or 2 egg whites + ½ a small bowl of peanut and coconut chutney + 1 cup green tea",
-            "Mid Morning":"1 medium apple or a small bowl of grapes",
+            "MidMorning":"1 medium apple or a small bowl of grapes",
             "Lunch":"2 ragi balls + Vegetable curry + 1 cup rasam + 1 cup buttermilk",
-            "Post-Lunch":"1 cup green tea + 2 Marie biscuits",
+            "PostLunch":"1 cup green tea + 2 Marie biscuits",
             "Dinner":"2 rotis + 1 medium bowl of vegetable curry + 1 cup spinach daal + 1 small bowl of curd",
-            "Bed Time":"1 cup warm milk with a pinch of turmeric"
+            "BedTime":"1 cup warm milk with a pinch of turmeric"
         },
         {
             "day":"2",
             "calories":"1400",
-            "early-morning":"1 cup warm water with juice of half a lime and honey",
+            "earlymorning":"1 cup warm water with juice of half a lime and honey",
             "breakfast":"2 medium rava dosas + tomato and onion chutney + 1 cup black coffee + 4 almonds",
-            "Mid Morning":"1 cup cut fruits",
+            "MidMorning":"1 cup cut fruits",
             "Lunch":"1 small bowl brown rice (or) 2 rotis + 1 cup bendekai gojju + 1 cup sambar + cucumber and carrot salad + 1 cup buttermilk",
-            "Post-Lunch":"1 cup black coffee + 1 boiled egg (or) boiled peanuts (20 g)",
+            "PostLunch":"1 cup black coffee + 1 boiled egg (or) boiled peanuts (20 g)",
             "Dinner":"2 rotis + 1 cup mixed daal + 1 medium bowl vegetable kadalai curry or chicken curry + cucumber, onion, and tomato salad + 1 small cup low-fat curd",
-            "Bed Time":"1 cup warm milk with a pinch of turmeric"
+            "BedTime":"1 cup warm milk with a pinch of turmeric"
         },
         {
             "day":"3",
             "calories":"1200",
-            "early-morning":"2 teaspoons fenugreek seeds soaked overnight in 1 cup water",
+            "earlymorning":"2 teaspoons fenugreek seeds soaked overnight in 1 cup water",
             "breakfast":"2 pesarattus + ¼ cup allam pachadi + 4 almonds + 1 cup green tea",
-            "Mid Morning":"1 cup freshly pressed fruit juice",
+            "MidMorning":"1 cup freshly pressed fruit juice",
             "Lunch":"1 small bowl brown rice + 1 cup daal + 1 small bowl beetroot poriyal + 1 small cup of sprouts salad + 1 cup buttermilk",
-            "Post-Lunch":"1 cup green tea + 6 in-shell pistachios",
+            "PostLunch":"1 cup green tea + 6 in-shell pistachios",
             "Dinner":"2 small multigrain atta parotas with 1 cup vegetable kurma + 1 medium bowl mixed daal + 1 small bowl of curd",
-            "Bed Time":"1 cup warm milk with a pinch of turmeric"
+            "BedTime":"1 cup warm milk with a pinch of turmeric"
         },
         {
             "day":"4",
             "calories":"1200",
-            "early-morning":"2 teaspoons fenugreek seeds soaked overnight in 1 cup water",
+            "earlymorning":"2 teaspoons fenugreek seeds soaked overnight in 1 cup water",
             "breakfast":"Quinoa upma + 1 cup green tea",
-            "Mid Morning":"Cucumber slices + 4 almonds",
+            "MidMorning":"Cucumber slices + 4 almonds",
             "Lunch":"1 small bowl white rice + 1 cup ridge gourd daal + ½ medium bowl of stir-fried carrots + tomato and beetroot salad + 1 cup buttermilk",
-            "Post-Lunch":"1 cup black coffee + 1 multigrain biscuit",
+            "PostLunch":"1 cup black coffee + 1 multigrain biscuit",
             "Dinner":"2 rotis + 1 cup mixed veg curry + ½ cup whole masoor daal or 1 piece of grilled fish + carrot and cucumber salad + 1 small cup curd",
-            "Bed Time":"1 cup warm milk with a pinch of turmeric"
+            "BedTime":"1 cup warm milk with a pinch of turmeric"
         },
         {
             "day":"5",
             "calories":"1200",
-            "early-morning":"2 teaspoons fenugreek seeds soaked overnight in 1 cup water",
+            "earlymorning":"2 teaspoons fenugreek seeds soaked overnight in 1 cup water",
             "breakfast":"1 cup green tea + 2 puttus + 1 medium bowl cherupayar thoran",
-            "Mid Morning":"3 almonds + 1 cup watermelon juice",
+            "MidMorning":"3 almonds + 1 cup watermelon juice",
             "Lunch":"1 small bowl coconut rice (or) 2 rotis + 1 cup palak daal + 1 medium bowl cauliflower kootu + carrot, beetroot, and cucumber salad + 1 cup buttermilk",
-            "Post-Lunch":"1 cup black coffee + 1 cup unsalted popcorn",
+            "PostLunch":"1 cup black coffee + 1 cup unsalted popcorn",
             "Dinner":"2 rotis + 1 medium bowl yellow daal or chicken curry + a small bowl bendakayi gojju + 1 cup curd",
-            "Bed Time":"1 cup warm milk with a pinch of turmeric"
+            "BedTime":"1 cup warm milk with a pinch of turmeric"
         },
         {
             "day":"6",
             "calories":"1700",
-            "early-morning":"1 cup warm water with juice of half a lime and honey",
+            "earlymorning":"1 cup warm water with juice of half a lime and honey",
             "breakfast":"1 cup filter coffee (use 1 teaspoon sugar) or 1 cup black coffee + 2-3 idiyappams with 1 medium bowl egg or vegetable stew",
-            "Mid Morning":"1 banana + 2 almonds",
+            "MidMorning":"1 banana + 2 almonds",
             "Lunch":"1 medium cup white rice + 1 small cup kothavarangai puli kootu + 1 cup sambar + 1 small cup sevai pudding (use jaggery and full-fat milk) + 1 cup curd",
-            "Post-Lunch":"1 cup coconut water or 1 cup black coffee + 1 multigrain biscuit",
+            "PostLunch":"1 cup coconut water or 1 cup black coffee + 1 multigrain biscuit",
             "Dinner":"½ cup brown rice + 1 cup chicken curry or mushroom and peas curry +1 small cup beans and coconut curry + cucumber and carrot salad + 1 cup curd + a piece of dark chocolate",
-            "Bed Time":"1 cup warm milk with a pinch of turmeric"
+            "BedTime":"1 cup warm milk with a pinch of turmeric"
         },
         {
             "day":"7",
             "calories":"1200",
-            "early-morning":"2 teaspoons fenugreek seeds soaked overnight in 1 cup water",
+            "earlymorning":"2 teaspoons fenugreek seeds soaked overnight in 1 cup water",
             "breakfast":"1 medium bowl pongal (use slivered almonds instead of cashews) with coconut chutney + 1 cup green tea",
-            "Mid Morning":"1 cup coconut water",
+            "MidMorning":"1 cup coconut water",
             "Lunch":"½ medium cup white rice + 1 medium bowl Kerala style fish curry or mamidikaya pappu + 2 rotis + 1 medium bowl avial + tomato and cucumber salad + 1 small bowl curd",
-            "Post-Lunch":"1 cup green tea + 1 cup of moong sprout salad",
+            "PostLunch":"1 cup green tea + 1 cup of moong sprout salad",
             "Dinner":"2 rotis(small) + 1 cup spinach daal + stir-fried beetroot + cucumber and tomato salad + 1 cup curd",
-            "Bed Time":"1 cup warm milk with a pinch of turmeric"
+            "BedTime":"1 cup warm milk with a pinch of turmeric"
         }
     ],
-    "keto-diet":[
+    "keto-diet":[  
         {
             "day":"1",
             "breakfast":"Bulletproof coffee",

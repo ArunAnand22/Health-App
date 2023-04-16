@@ -1,0 +1,30 @@
+.blogContainer{
+    width: 100%;
+}
+.blogWrapper{
+    width: 85%;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.blogCards{
+    width: 100%;
+    margin-top: 60px;
+    position: relative;
+    text-align: center;
+}
+.blogCards > img{
+    width: 400px;
+    height: 380px;
+}
+.blogCardContainer{
+    position: absolute;
+    bottom: 0px;
+    width: 100%;
+    font-size: 22px;
+    background-color: rgba(0,0,0,0.8);
+    color: white;
+    padding: 15px 0px;
+}

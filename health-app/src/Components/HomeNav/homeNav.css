@@ -3,6 +3,7 @@
     background-color: teal;
     color: white;
     z-index: 99;
+    position: fixed;
 }
 .header > .navbar{
     height: 70px;
@@ -31,7 +32,7 @@
 @media only screen and (max-width: 700px) {
     .header{
         position: fixed;
-        bottom: 0;
+        bottom: 0px;
     }
     .navbar > .logo{
         display: none;

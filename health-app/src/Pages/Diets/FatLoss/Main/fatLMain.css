@@ -1,0 +1,33 @@
+.fatMain-wrapper{
+    width: 100%;
+}
+.fatMain-section{
+    width: 85%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.fatMain-card{
+    background-color: whitesmoke;
+    margin-top: 20px;
+    border-radius: 8px;
+}
+.fatMain-card:last-child{
+    margin-bottom: 100px;
+}
+.fatMain-heading{
+    font-size: 18px;
+    padding: 10px 8px;
+}
+.fatMain-heading > .time{
+    color: teal;
+    font-size: 22px;
+}
+.fatMain-ingredients{
+    padding: 10px 8px;
+    margin-bottom: 5px;
+}
+.calorie{
+    font-size: 16px;
+    font-weight: bold;
+    color: tomato;
+}

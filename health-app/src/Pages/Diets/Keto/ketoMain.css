@@ -1,0 +1,44 @@
+.ketoMain{
+    width: 100%;
+}
+.ketoWrapper{
+    width: 85%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.ketoCard{
+    background-color: whitesmoke;
+    border-radius: 8px;
+    margin-top: 50px;
+    padding: 20px;
+}
+.ketoCard:last-child{
+    margin-bottom: 100px;
+}
+.ketoDay{
+    color: teal;
+}
+.ketoCard > p{
+    margin-top: 5px;
+}
+.ketoCardSub{
+    width: 50%;
+    margin-top: 10px;
+    display: flex;
+    justify-content: space-around;
+}
+.ketoFat{
+    color: orangered;
+}
+.ketoProt{
+    color: blue;
+}
+.ketoCarb{
+    color: teal;
+}
+
+@media only screen and (max-width: 700px){
+ .ketoCardSub{
+    width: 100%;
+ }   
+}

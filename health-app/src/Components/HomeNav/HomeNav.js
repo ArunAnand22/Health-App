@@ -27,7 +27,7 @@ function HomeNav() {
                     <span className='mobile-icon'><FitnessCenterIcon/></span>
                 </li>
                 </Link>
-                <Link to='/home' className='nav_link'>
+                <Link to='/main-blog' className='nav_link'>
                 <li className='list_item'>
                     <span className='main-icon'>Blog</span>
                     <span className='mobile-icon'><BookIcon/></span>
@@ -39,7 +39,7 @@ function HomeNav() {
                     <span className='mobile-icon'><LocalDiningIcon/></span>
                 </li>
                 </Link>
-                <Link to='/home' className='nav_link'>
+                <Link to='/profile' className='nav_link'>
                 <li className='list_item'>
                     <span className='main-icon'>Profile</span>
                     <span className='mobile-icon'><PersonIcon/></span>
