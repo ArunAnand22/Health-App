@@ -10,7 +10,7 @@ function Banner({type}) {
              <div className='wrapper-div'>
               <h1>Welcome to Gold Gym</h1>
               <span>The fitness facility for all your needs.</span>
-             {type && <button><Link to='/login'>Join Now</Link></button> }    
+             {type && <button><Link className='login-Link' to='/login'>Join Now</Link></button> }    
             </div>
         </div>
     </div>

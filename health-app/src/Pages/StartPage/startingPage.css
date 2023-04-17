@@ -4,34 +4,45 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    background-image: url('https://hdqwalls.com/download/gym-women-image-2880x1800.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 .wrapper{
     display: flex;
     flex-direction: column;
-    border: 1px solid grey;
     padding: 30px;
+    background-color: rgba(0,0,0,0.8);
+    color: #fff;
 }
 .wrapper > h1{
     font-weight: 500;
     text-align: center;
     padding: 15px;
+    color: teal;
+    text-shadow: 2px 2px #fff;
+    font-weight: bold;
+    font-size: 36px;
 }
 .wrapper > span{
     padding: 10px;
+    font-style: italic;
 }
-.wrapper > button{
-    padding: 10px 15px;
+.start-btn{
+    padding: 10px 80px;
     border: none;
+    border-radius: 6px;
     margin-top: 10px;
-    background-color: teal;
     color: white;
+    background-color: teal;
     font-weight: bold;
     font-size: 20px;
     cursor: pointer;
 }
-.wrapper > .login-link{
+.login-Link{
     text-decoration: none;
-    color: black;
     text-align: center;
-    padding-top: 5px;
+    padding-top: 10px;
+    color: teal;
 }

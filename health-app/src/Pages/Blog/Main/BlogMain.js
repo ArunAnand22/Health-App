@@ -18,7 +18,6 @@ function BlogMain() {
     
   return (
       <div className="blogContainer">
-            <HomeNav/>
             <div className="blogWrapper">
                 {
                     blog && blog.map(datas=>(
@@ -33,7 +32,6 @@ function BlogMain() {
                     ))
                 }
             </div>
-            <Footer/>
         </div>
   )
 }
