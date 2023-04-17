@@ -4,12 +4,49 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    background-image: url('https://wallpapertag.com/wallpaper/full/f/b/d/143971-new-gym-wallpaper-2560x1600-720p.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 .register-heading{
     text-align: center;
+    color: white;
+    font-weight: 400;
+    font-size: 24px;
 }
-.register > form{
+.register > .register-form{
     display: flex;
     flex-direction: column;
     gap: 10px;
+    background-color: rgba(0,0,0,0.9);
+    padding: 25px 30px;
+    border-radius: 8px;
+}
+.register-form > input{
+    background-color: transparent;
+    color: white;
+    padding: 5px 10px;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-bottom: 2px solid grey;
+    outline: none;
+}
+.registerSubmit{
+    background-color: teal;
+    border: none;
+    font-weight: bold;
+    font-size: 16px;
+    margin-top: 10px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+.register-form > span{
+    color: white;
+    margin-top: 10px;
+}
+.registerLogin{
+    text-decoration: none;
+    color: teal;
 }
