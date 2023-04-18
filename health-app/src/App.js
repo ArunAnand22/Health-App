@@ -21,6 +21,7 @@ import KetoMain from './Pages/Diets/Keto/KetoMain';
 import BlogMainCont from './Pages/Blog/Container/BlogMainCont';
 import BlogDesc from './Pages/Blog/Desc/BlogDesc';
 import ProfileMain from './Pages/Profile/Main/ProfileMain';
+import NotFound from './Pages/NotFound/NotFound';
 
 function App() {
   return (
@@ -46,6 +47,7 @@ function App() {
           <Route path='/main-blog' element={<BlogMainCont/>}/>
           <Route path='/blog-desc' element={<BlogDesc/>}/>
           <Route path='/profile' element={<ProfileMain/>}/>
+          <Route path='*' element={<NotFound/>}/>
         </Routes>
       </Router>
     </div>
